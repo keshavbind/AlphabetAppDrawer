@@ -18,11 +18,8 @@ A modern, fluid Android app drawer built with **Jetpack Compose** and **Material
 
 ### 📹 App Preview Video
 
-<video src="screenshots/AlphabetAppDrawer_video.mp4" controls width="100%" poster="screenshots/Screenshot%201.jpeg"></video>
 
-
-
-Uploading AlphabetAppDrawer_video.mp4…
+https://github.com/user-attachments/assets/7a0ab2ab-de12-4236-9fa9-4bf747f979c6
 
 
 
