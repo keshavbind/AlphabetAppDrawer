@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/c9f047c3-ca1b-4ce2-89e5-67a8f778a070
+
 # Alphabet App Drawer 📱✨
 
 A modern, fluid Android app drawer built with **Jetpack Compose** and **Material 3**. Featuring a custom physics-driven curved alphabet scroller, interactive touch feedback, and instant launcher integration for all installed apps.
