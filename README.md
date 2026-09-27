@@ -20,7 +20,11 @@ A modern, fluid Android app drawer built with **Jetpack Compose** and **Material
 
 <video src="screenshots/AlphabetAppDrawer_video.mp4" controls width="100%" poster="screenshots/Screenshot%201.jpeg"></video>
 
-*If the video above does not play automatically in your Markdown viewer, you can view the video file directly at [screenshots/AlphabetAppDrawer_video.mp4](screenshots/AlphabetAppDrawer_video.mp4).*
+
+
+Uploading AlphabetAppDrawer_video.mp4…
+
+
 
 ### 📸 Screenshots
 
@@ -28,7 +32,7 @@ A modern, fluid Android app drawer built with **Jetpack Compose** and **Material
 |:----------------------:|:-----------------------:|
 | ![Screenshot 1](screenshots/Screenshot%201.jpeg) | ![Screenshot 2](screenshots/Screenshot%202.jpeg) |
 
-https://github.com/user-attachments/assets/c9f047c3-ca1b-4ce2-89e5-67a8f778a070
+
 ---
 
 ## 🛠️ Tech Stack & Requirements
