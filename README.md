@@ -14,7 +14,15 @@ A modern, fluid Android app drawer built with **Jetpack Compose** and **Material
 
 ---
 
-## 📸 Screenshots
+## 🎥 Video Demo & Screenshots
+
+### 📹 App Preview Video
+
+<video src="screenshots/AlphabetAppDrawer_video.mp4" controls width="100%" poster="screenshots/Screenshot%201.jpeg"></video>
+
+*If the video above does not play automatically in your Markdown viewer, you can view the video file directly at [screenshots/AlphabetAppDrawer_video.mp4](screenshots/AlphabetAppDrawer_video.mp4).*
+
+### 📸 Screenshots
 
 | Alphabet Fast Scroller | Curved Gesture & Bubble |
 |:----------------------:|:-----------------------:|
@@ -46,7 +54,10 @@ AlphabetAppDrawer/
 │       └── java/com/example/alphabetappdrawer/
 │           ├── MainActivity.kt   # Core UI Composables, launcher logic, & curved scroller physics
 │           └── ui/theme/         # Material 3 theme definitions
-├── screenshots/                  # Preview screenshots for README
+├── screenshots/                  # Preview media assets
+│   ├── AlphabetAppDrawer_video.mp4 # Video demo of app drawer in action
+│   ├── Screenshot 1.jpeg         # Screenshot preview
+│   └── Screenshot 2.jpeg         # Screenshot preview
 ├── build.gradle.kts              # Root build configuration
 ├── settings.gradle.kts           # Gradle repository & module management
 └── README.md                     # Project documentation
